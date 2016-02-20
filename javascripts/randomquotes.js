@@ -20,6 +20,9 @@ Quotation[6] = "We loved with a love that was more than love.";
 Quotation[7] = "When you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.";
 Quotation[8] = "Love doesn’t just sit there, like a stone, it has to be made, like bread; remade all the time, made new.";
 
+Quotation[9] = "My love for you is a journey, starting at forever and ending at never."
+Quotation[10] = "Whatever our souls are made of, his and mine are the same."
+
 // ======================================
 // Do not change anything below this line
 // ======================================
