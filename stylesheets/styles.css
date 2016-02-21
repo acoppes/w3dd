@@ -241,11 +241,13 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:900px;
+  text-align: center;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:0px;
   -webkit-font-smoothing:subpixel-antialiased;
+  background-color: white;
 }
 
 @media print, screen and (max-width: 960px) {
