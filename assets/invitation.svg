@@ -61,9 +61,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46669048"
-     inkscape:cx="-106.86114"
-     inkscape:cy="173.52812"
+     inkscape:zoom="1.1313709"
+     inkscape:cx="168.95461"
+     inkscape:cy="298.93024"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -211,98 +211,103 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:64.36723328px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="177.31306"
-       y="746.33246"
+       y="742.33246"
        id="text3394"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3396"
          x="177.31306"
-         y="746.33246"
+         y="742.33246"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.31741142px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle">La Martina,</tspan><tspan
          sodipodi:role="line"
          x="177.31306"
-         y="769.48187"
+         y="765.48187"
          id="tspan3398"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.05992317px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1">Av. Luis Battle Berres 9227</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:64.36723328px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="177.0092"
-       y="820.29352"
+       y="810.29352"
        id="text3400"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="820.29352"
+         y="810.29352"
          id="tspan3416"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Colectivo Abitab 60583</tspan><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="842.92261"
+         y="832.92261"
          id="tspan3418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">BROU C/A 152-0645355</tspan><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="865.5517"
+         y="855.5517"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="tspan3476" /><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="888.18085"
+         y="878.18085"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="tspan3478" /><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="910.80994"
+         y="900.80994"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="tspan3488" /><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="933.43903"
+         y="923.43903"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="tspan3490" /><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="956.06812"
+         y="946.06812"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="tspan3492" /><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="978.69727"
+         y="968.69727"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="tspan3486" /><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="1001.3264"
+         y="991.32635"
          id="tspan3420"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1" /><tspan
          sodipodi:role="line"
          x="177.0092"
-         y="1023.9554"
+         y="1013.9554"
          id="tspan3422"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10328293px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:65.3141098px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="177.25273"
-       y="985.8222"
+       y="967.8222"
        id="text3509"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3511"
          x="177.25273"
-         y="985.8222"
+         y="967.8222"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.32852745px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle;fill:#4d4d4d">Confirmar asistencia,</tspan><tspan
          sodipodi:role="line"
          x="177.25273"
-         y="1008.2648"
+         y="990.26477"
          id="tspan3513"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.36959267px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle">www.patoyariel.com/rsvp</tspan><tspan
          sodipodi:role="line"
          x="177.25273"
-         y="1031.2268"
+         y="1013.2267"
          id="tspan3515"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.36959267px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.36959267px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle">Cel. 098883004</tspan><tspan
+         sodipodi:role="line"
+         x="177.25273"
+         y="1036.1887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.36959267px;font-family:Typewriter;-inkscape-font-specification:Typewriter;text-align:center;text-anchor:middle"
+         id="tspan4206" /></text>
     <rect
        style="fill:#666666"
        id="rect3517"
@@ -394,6 +399,6 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAHHElEQVR4nO2ZsREcMQwDv/+m7Qos BTAGwGl35kJBFMn95H9/AOCf/NIFADSDIAAHEATgAIIAHEAQgAMIAnAAQQAOIAjAAQQBOIAgAAcQ BOAAggAcQBCAAwgCcABBAA7Igvx+v09/7ve7+8/8xP7KAQVNSDY4PsBw/e2f3F85oKAJyQbHBxiu v/2T+ysHFDQh2eD4AMP1t39yf+WAgiYkGxwfYLj+9k/urxxQ0IRkg+MDDNff/sn9lQMKmpBscHyA 4frbP7m/ckBBE5INjg8wXH/7J/dXDjAX6KZ9gd35zO+S316gm/YFduczv0t+e4Fu2hfYnc/8Lvnt BbppX2B3PvO75LcX6KZ9gd35zO+S316gm/YFduczv0t+e4Fu2hfYnc/8LvntBbppX2B3PvO75KcL vJ1Xv3T9r59vn981Xw54vMGc357fNV8OeLzBnN+e3zVfDni8wZzfnt81Xw54vMGc357fNV8OeLzB nN+e3zVfDni8wZzfnt81Xw54vMGc357fNV8OeLzB9gGV56/P75ovBzze4PYFduevz++aLwc83uD2 BXbnr8/vmi8HPN7g9gV256/P75ovBzze4PYFduevz++aLwc83uD2BXbnr8/vmi8HPN7g9gV256/P 75ovBzze4PYFduevz++aLwc83mB3/Qjirf+aLwc83mAE2Z7fNV8OeLzBCLI9v2u+HPB4gxFke37X fDng8QYjyPb8rvlywOMNRpDt+V3z5YDHG4wg2/O75ssBjzcYQbbnd82XA8wFulmvX2X9/QhiZr1+ lfX3I4iZ9fpV1t+PIGbW61dZfz+CmFmvX2X9/QhiZr1+lfX3I4iZ9fpV1t+PIGbW61dZf/+8IOuf +v718+ufCoKUL2j6/PqngiDlC5o+v/6pIEj5gqbPr38qCFK+oOnz658KgpQvaPr8+qeCIOULmj6/ /qkgSPmCps+vfyr9/wSNkx4waDABMwiyDRMwgyDbMAEzCLINEzCDINswATMIsg0TMIMg2zABMwiy zfwfhe760+fX++euz/4+OeDjA06fX+8fgnx8wOnz6/1DkI8POH1+vX8I8vEBp8+v9w9BPj7g9Pn1 /iHIxwecPr/ePwT5+IDT59f797wg1wvKB+Tm6/WlFxxBxPz1BWyvL73gCCLmry9ge33pBUcQMX99 AdvrSy84goj56wvYXl96wRFEzF9fwPb60guOIGL++gK215decAQR89cXsL2+9ILXC5JusLv+9fe3 1+euX74//YD2Aay/v70+d/3y/ekHtA9g/f3t9bnrl+9PP6B9AOvvb6/PXb98f/oB7QNYf397fe76 5fvTD2gfwPr72+tz1y/fn35A+wDW399en7t++f70A9oHsP7+9vrc9cv3/4c3nC8wP7B9gO789PvV +t3n5frtFyCINT/9frV+93m5fvsFCGLNT79frd99Xq7ffgGCWPPT71frd5+X67dfgCDW/PT71frd 5+X67RcgiDU//X61fvd5uX77BQhizU+/X63ffV6u334Bgljz0+9X63efl+uXA8YFSC/g1+9PL7gK gnx8QdP3I8h4g7++oOn7EWS8wV9f0PT9CDLe4K8vaPp+BBlv8NcXNH0/gow3+OsLmr4fQcYb/PUF Td//vCCv077A6a+9v9f77Td8nPSCtH/t/b3eb7/h46QXpP1r7+/1fvsNHye9IO1fe3+v99tv+Djp BWn/2vt7vd9+w8dJL0j7197f6/32Gz5OekHav/b+Xu+33/Bx0gvS/rX393q/HFAwhOYBu/v3en1u EIQFnK7PDYKwgNP1uUEQFnC6PjcIwgJO1+cGQVjA6frcIAgLOF2fGwRhAafrc2MXpB13/Wp++ryK WzD7/OQABLHmp8+rIAiCWPPT51UQBEGs+enzKgiCINb89HkVBEEQa376vAqCIIg1P31eBUEQxJqf Pq+CIOYHzjc4/L406+9HEASxsv5+BEEQK+vvRxAEsbL+fgRBECvr70cQBLGy/n4EQRAr6+9HEASx sv5+BCkXbL3+9Hzl+uUABEEQIR9BxPMIsl1/er5y/XIAgiCIkI8g4nkE2a4/PV+5fjkAQRBEyEcQ 8TyCbNefnq9cvxyAIAgi5COIeH5dkPZ8N+313UCQ8gVGkCwIUr7ACJIFQcoXGEGyIEj5AiNIFgQp X2AEyYIg5QuMIFkQpHyBESRLXJA06QVu/4Fon6+7PgRBEAQ55bcX6Ca9YAiigSBm0guGIBoIYia9 YAiigSBm0guGIBoIYia9YAiigSBm0guGIBrzgqx/vD+7H2kQBEEQ5FS/HFAwRARBEBcIgiAIcqpf DigYIoIgiAsEQRAEOdUvBxQMEUEQxAWCIAiCnOpPFwDQDIIAHEAQgAMIAnAAQQAOIAjAAQQBOIAg AAcQBOAAggAcQBCAAwgCcABBAA4gCMABBAE4gCAAB/4Cf+xRqtUCx9sAAAAASUVORK5CYII= "
        id="image4203"
        x="126.18807"
-       y="859.34802" />
+       y="845.34802" />
   </g>
 </svg>
